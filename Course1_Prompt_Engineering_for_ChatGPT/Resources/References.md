@@ -78,6 +78,5 @@ Here is a detailed table with descriptions and three examples for each prompt pa
 | Infinite Generation      | Continuously generates output without needing new prompts.                                           | 1. "Keep generating writing prompts until I tell you to stop." <br> 2. "Continue suggesting new recipes based on the ingredients I have." <br> 3. "Keep listing book recommendations based on my reading preferences."                                                                |
 | Context Manager          | Allows the user to specify the context for the LLM's responses.                                       | 1. "Consider the context of a classroom when providing educational activities." <br> 2. "Keep in mind a corporate environment when suggesting team-building exercises." <br> 3. "Assume a startup setting when giving business growth strategies."                                   |
 
-This detailed table includes descriptions and three examples for each pattern to illustrate how they can be utilized in different scenarios.
 
 For more detailed insights, refer to the full paper: [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382).
