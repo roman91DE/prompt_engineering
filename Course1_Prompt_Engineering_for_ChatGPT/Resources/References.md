@@ -80,3 +80,39 @@ Here is a detailed table with descriptions and three examples for each prompt pa
 
 
 For more detailed insights, refer to the full paper: [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382).
+
+Here's a detailed summary of the paper:
+
+
+## ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements Elicitation, and Software Design
+
+**Authors**: Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C. Schmidt
+
+### Abstract
+
+The paper introduces prompt design techniques for software engineering, encapsulated in patterns to address common issues when using large language models (LLMs) like ChatGPT. The primary focus is on automating activities such as decoupling code from third-party libraries and creating API specifications from requirements. The contributions include a catalog of software engineering patterns classified by problem type and an exploration of prompt patterns applied to enhance requirements elicitation, rapid prototyping, code quality, deployment, and testing.
+
+### Introduction
+
+The introduction provides an overview of LLMs and their integration into software engineering tasks. Tools like ChatGPT and GitHub Copilot are highlighted for their utility in generating code and related artifacts. The paper emphasizes the ease of accessing LLM capabilities via natural language prompts in popular integrated development environments (IDEs). Initial research supports the efficacy of these AI tools in aiding various software development tasks, establishing the foundation for the prompt patterns discussed in the paper.
+
+### Methodology
+
+The methodology section delves into the creation and classification of prompt patterns designed to improve software engineering processes. It discusses the development of a catalog of patterns addressing specific problems and the criteria for their classification. The methodology also covers the implementation of these patterns in real-world scenarios, detailing the processes and tools used to validate their effectiveness.
+
+### Results
+
+The results section presents the outcomes of applying the prompt patterns across different software engineering activities:
+
+1. **Requirements Elicitation**: Patterns that enhance the extraction and refinement of software requirements from stakeholders using LLMs.
+2. **Rapid Prototyping**: Techniques for generating prototypes based on high-level requirements, facilitating early validation and iteration.
+3. **Code Quality**: Patterns that assist in writing, refactoring, and maintaining high-quality code, leveraging LLMs to enforce best practices and coding standards.
+4. **Deployment and Testing**: Prompt patterns that streamline the deployment process and automate testing procedures, ensuring robust and reliable software delivery.
+
+### Conclusion
+
+The conclusion summarizes the potential of LLMs in automating and improving key aspects of software engineering through carefully designed prompt patterns. It underscores the significance of the contributions made by the paper in providing a structured approach to leveraging LLMs for software engineering tasks, and suggests areas for future research and development to further enhance these techniques.
+
+### Keywords
+
+Large language models, ChatGPT, software engineering, prompt patterns, code quality, refactoring, requirements elicitation, rapid prototyping, deployment, testing.
