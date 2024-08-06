@@ -1,7 +1,8 @@
 
 # Prompt Engineering Specialization Course Notes
 
-Welcome to my notes repository for the Prompt Engineering Specialization Course offered by Vanderbilt University on Coursera. This repository is structured into three main courses, each containing directories for key topics covered in the course. 
+Welcome to my notes repository for the Prompt Engineering Specialization Course offered by Vanderbilt University on Coursera.
+
 
 ## Directory Structure
 
@@ -26,7 +27,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - [Vanderbilt University](https://www.vanderbilt.edu/)
-- [Coursera](https://www.coursera.org/)
+
 
 ## Contact
 
