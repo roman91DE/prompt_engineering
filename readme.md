@@ -9,14 +9,10 @@ The repository is organized as follows:
 
 ```
 prompt-engineering-specialization/
-├── README.md
-├── Course1_Prompt_Engineering_for_ChatGPT/
-├── Course2_Trustworthy_Generative_AI/
-├── Course3_AI_Foundations_with_ChatGPT/
-└── General_Resources/
-    ├── Glossary.md
-    ├── Additional_Readings.md
-    └── Useful_Links.md
+├── Advanced_Data_Analysis
+├── Prompt_Patterns
+├── Resources
+├── readme.md
 ```
 
 ## Contributing
